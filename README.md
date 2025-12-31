@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full Stack developer from India</h3>
 
 <div align="center">
-  <img height="250" src="h  ttps://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 
