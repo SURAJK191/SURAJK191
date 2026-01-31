@@ -1,5 +1,5 @@
-<h1 align="center">Hi👋🏼,  I'm SURAJ KC      </h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+                           <h1 align="center">Hi👋🏼,  I'm SURAJ KC      </h1>
+<h3 align="center">A passionate full Stack developer from India  </h3>
 
 <div align="center">
   <img height="260" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
